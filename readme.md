@@ -7,7 +7,7 @@ only implements `entry` and `output` like webpack.
 ## install
 
 ``` bash
-npm i minipack
+npm link
 ```
 
 ## usage
